@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hackhack6776
-- 👀 I’m interested in roblox scipting
+- 👀 I’m interested in roblox scripting
 - 🌱 I’m currently learning lua
 - 📫 How to reach me: Discord: Ilikenoodles #1999
 
